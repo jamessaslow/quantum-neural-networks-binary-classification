@@ -30,3 +30,16 @@ This project contains tutorial modules for training quantum neural networks to p
    - Designing a 3-qubit parameterized quantum circuit to perform quantum machine learning
 ## 2.1) [Fetching Iris Dataset](https://github.com/jamessaslow/quantum-neural-networks-binary-classification/blob/main/vscode_quantum_neural_network/Quantum%20Neural%20Network%20Code/2.1%20fetching_iris_dataset.ipynb)
    - Scraping Iris Dataset from UCI ML REPO and performing data pre-processing
+## 2.2) [Fetching Breast Cancer Dataset](https://github.com/jamessaslow/quantum-neural-networks-binary-classification/blob/main/vscode_quantum_neural_network/Quantum%20Neural%20Network%20Code/2.2%20fetching_breast_cancer_dataset.ipynb)
+   - Scraping Breast Cancer Wisconsin Dataset from UCI ML REPO and performing data pre-processing
+## 2.3) [Fetching MNIST Dataset](https://github.com/jamessaslow/quantum-neural-networks-binary-classification/blob/main/vscode_quantum_neural_network/Quantum%20Neural%20Network%20Code/2.3%20fetching_MNIST_dataset.ipynb)
+   - Scraping MNIST Dataset from the Keras Library and performing data pre-processing
+
+## 3.1) [QNN for Binary Classification of Iris Data](https://github.com/jamessaslow/quantum-neural-networks-binary-classification/blob/main/vscode_quantum_neural_network/Quantum%20Neural%20Network%20Code/3.1%20QNN_iris.ipynb)
+   - Training the PQC via gradient descent to perform binary classification on the Iris dataset.
+
+## 3.2) [QNN for Binary Classification of Breast Cancer Data](https://github.com/jamessaslow/quantum-neural-networks-binary-classification/blob/main/vscode_quantum_neural_network/Quantum%20Neural%20Network%20Code/3.2%20QNN_breast_cancer.ipynb)
+   - Training the PQC via gradient descent to perform binary classification on the Breast Cancer dataset.
+
+## 3.3) [QNN for Binary Classification of MNIST Data](https://github.com/jamessaslow/quantum-neural-networks-binary-classification/blob/main/vscode_quantum_neural_network/Quantum%20Neural%20Network%20Code/3.3%20QNN_MNIST.ipynb)
+   - Training the PQC via gradient descent to perform binary classification on the MNIST dataset.
