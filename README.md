@@ -22,7 +22,7 @@ performance. Our findings highlight the promise of QNN in
 solving real-world classification tasks.
 
 
-Click [here](https://github.com/jamessaslow/quantum-neural-networks-binary-classification/blob/main/vscode_quantum_neural_network/Report/Solving_Binary_Classification_Problems_with_Quantum_Neural_Networks.pdf) for a full report.
+Click [here](https://github.com/jamessaslow/quantum-neural-networks-binary-classification/blob/main/vscode_quantum_neural_network/Report/Solving_Binary_Classification_Problems_with_Quantum_Neural_Networks.pdf) for the full paper report.
 
 Please see the Youtube tutorial [here](https://www.youtube.com/watch?v=VPK-RhlEyBI) for thorough code compilation instructions.
 
