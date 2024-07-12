@@ -25,3 +25,11 @@ solving real-world classification tasks.
 
 This project contains tutorial modules for training quantum neural networks to perform binary classification on Iris Data, Breast Cancer Wisconsin Data, and MNIST dataset.
 
+
+## 1) [Engineering a Parameterized Quantum Circuit](https://github.com/jamessaslow/quantum-neural-networks-binary-classification/blob/main/vscode_quantum_neural_network/Quantum%20Neural%20Network%20Code/1.%20generate_pqc.ipynb)
+   - An Introduction to Solving Linear Unconstrained Binary Optimization Problems
+   - A simple LUBO is formulated as an arbitrary math problem & solved both analytically and experimentally with DWave solvers
+## 2) [Fetching Iris Dataset](https://github.com/jamessaslow/quantum-neural-networks-binary-classification/blob/main/vscode_quantum_neural_network/Quantum%20Neural%20Network%20Code/2.1%20fetching_iris_dataset.ipynb)
+   - The Subset Sum Problem (SSP) is formally introduced as a practical application of a LUBO problem
+   - SSP is modified from its usual form to find the subset that extremizes the target sum amount
+   - Solved with brute-force search & QUBO implementation in DWave's hybrid solver
