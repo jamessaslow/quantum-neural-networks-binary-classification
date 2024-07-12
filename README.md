@@ -26,6 +26,10 @@ Click [here](https://github.com/jamessaslow/quantum-neural-networks-binary-class
 
 Please see the Youtube tutorial [here](https://www.youtube.com/watch?v=VPK-RhlEyBI) for thorough code compilation instructions.
 
+<h2> The Parameterized Quantum Circuit </h2>
+
+![image](https://github.com/user-attachments/assets/d58c41e8-d018-4406-9510-a774af3f8a92)
+
 
 <h2> Table of Contents</h2>
 
