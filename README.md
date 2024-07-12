@@ -24,6 +24,9 @@ solving real-world classification tasks.
 
 Click [here](https://github.com/jamessaslow/quantum-neural-networks-binary-classification/blob/main/vscode_quantum_neural_network/Report/Solving_Binary_Classification_Problems_with_Quantum_Neural_Networks.pdf) for a full report.
 
+Please see the Youtube tutorial [here](https://www.youtube.com/watch?v=VPK-RhlEyBI) for thorough code compilation instructions.
+
+
 <h2> Table of Contents</h2>
 
 This project contains tutorial modules for training quantum neural networks to perform binary classification on Iris Data, Breast Cancer Wisconsin Data, and MNIST dataset.
