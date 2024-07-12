@@ -14,7 +14,7 @@ Networks (QNNs) in binary classification tasks, aiming to develop
 efficient models with minimal complexity. We present a simple
 QNN model for binary classification as a Parameterized Quantum
 Circuit (PQC) to encode input data and perform computations.
-Through experiments on 3 benchmark datasets - Iris, Breast
+Through experiments on 3 benchmark datasets - [Iris](https://github.com/jamessaslow/quantum-neural-networks-binary-classification/blob/main/vscode_quantum_neural_network/Quantum%20Neural%20Network%20Code/iris_dataset.csv), Breast
 Cancer Wisconsin, and MNIST, we demonstrate the effectiveness
 of our QNN approach. Despite the inherent challenges posed
 by non-linearly separable data, QNN models exhibit exceptional
