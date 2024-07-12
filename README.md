@@ -1,6 +1,11 @@
 # Solving Binary Classification Problems using Quantum Neural Networks
-A showcase of quantum neural network PQC's trained to perform binary classification. 
 
+### Contributors: James Saslow
+### 7/11/2024
+
+<b> Return to [Full Project Portfolio](https://github.com/jamessaslow/portfolio) </b>
+
+A showcase of quantum neural network PQC's trained to perform binary classification. 
 
 Quantum computing offers promising avenues in
 computational parallelism, and leveraging these quantum capabilities is an active area of research for machine learning.
@@ -15,3 +20,8 @@ of our QNN approach. Despite the inherent challenges posed
 by non-linearly separable data, QNN models exhibit exceptional
 performance. Our findings highlight the promise of QNN in
 solving real-world classification tasks.
+
+<h2> Table of Contents</h2>
+
+This project contains tutorial modules for training quantum neural networks to perform binary classification on Iris Data, Breast Cancer Wisconsin Data, and MNIST dataset.
+
