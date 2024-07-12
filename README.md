@@ -21,6 +21,9 @@ by non-linearly separable data, QNN models exhibit exceptional
 performance. Our findings highlight the promise of QNN in
 solving real-world classification tasks.
 
+
+For a full report, please see [report](https://github.com/jamessaslow/quantum-neural-networks-binary-classification/blob/main/vscode_quantum_neural_network/Report/Solving_Binary_Classification_Problems_with_Quantum_Neural_Networks.pdf)
+
 <h2> Table of Contents</h2>
 
 This project contains tutorial modules for training quantum neural networks to perform binary classification on Iris Data, Breast Cancer Wisconsin Data, and MNIST dataset.
